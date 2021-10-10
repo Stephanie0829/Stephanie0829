@@ -12,8 +12,6 @@ To visit my personal site, click here:
  <a href="mailto:stephaniewei829@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-</br>
-
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephanie0829&show_icons=true&theme=prussian)
