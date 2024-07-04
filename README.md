@@ -8,9 +8,9 @@ To visit my personal site, click here:
 
 ## Contact me:
 <p align="center">
- <a href="https://linkedin.com/in/stephaniewei829" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:stephaniewei829@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+ <a href="https://linkedin.com/in/stephaniewei829" target="_blank" rel="noopener noreferrer"> <img src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="Python" height="45" style="vertical-align:top; margin:4px;"></a>
+ <a href="mailto:stephaniewei829@gmail.com"> <img src="https://www.cdnlogo.com/logos/g/37/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ </p>
 
 ## Github Stats
 
