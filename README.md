@@ -1,6 +1,6 @@
 # Welcome!
 
-I am **Stephanie**, a current student who is a lover of ***cats***, ***art***, ***statistics***, and learning more about ***CS***!  
+I am **Stephanie**, an enthusiast of ***cats***, ***art***, ***statistics/ML***, and learning more about ***CS***!  
 Feel free to explore my public repos and information linked below.    
 
 To visit my personal site, click here: 
