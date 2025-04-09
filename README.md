@@ -15,4 +15,3 @@ To visit my personal site, click here:
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephanie0829\&rank_icon=github&include_all_commits=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie0829&theme=prussian&hide_progress=true&langs_count=6)
